@@ -80,3 +80,10 @@ I'm a **software testing student** with experience in **manual testing**, curren
 - Email: [bogdan.vega@yahoo.com]
 
 Thanks for stopping by! 👋
+
+
+
+
+## Certifications
+
+![Python Hackathon Certificate](https://github.com/bogdanvega/certificates/blob/1b16b1ba4621dce7b3e3dab6ddef81e0116bf42b/python_hackathon_masterschool.png)
