@@ -86,4 +86,5 @@ Thanks for stopping by! 👋
 
 ## Certifications
 
+[ISTQB® Certified Tester Foundation Level (CTFL)](https://github.com/bogdanvega/certificates/blob/d3e67e954ebd3af441c841d79c606888e312c4cd/26-CTFL%204-275214-01.pdf)
 ![Python Hackathon Certificate](https://github.com/bogdanvega/certificates/blob/1b16b1ba4621dce7b3e3dab6ddef81e0116bf42b/python_hackathon_masterschool.png)
